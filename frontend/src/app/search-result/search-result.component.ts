@@ -2,7 +2,7 @@
  * Copyright (c) 2014-2023 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
-var escapeHtml = require('escape-html')
+import * as escapeHtml from 'escape-html'
 import { ProductDetailsComponent } from '../product-details/product-details.component'
 import { ActivatedRoute, Router } from '@angular/router'
 import { ProductService } from '../Services/product.service'
