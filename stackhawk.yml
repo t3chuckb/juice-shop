@@ -1,10 +1,10 @@
-app:
+#app:
   # ID of an Application in your StackHawk account
-  applicationId: c816bfe5-8a6c-4fd9-a8c9-b2f32be78776
+#  applicationId: c816bfe5-8a6c-4fd9-a8c9-b2f32be78776
   # Environment name for the scan
-  env: development
+#  env: development
   # URL to a running instance of your application
-  host: http://54.159.142.43:8080
+#  host: http://54.159.142.43:8080
 
 #hawk:
 #  spider:
